@@ -1,3 +1,4 @@
 Hi,
 git project
 checking git pull command
+fetch is get the changes from remote to local without merging in local repo 
