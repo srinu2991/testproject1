@@ -5,3 +5,4 @@ fetch is get the changes from remote to local without merging in local repo
 git head is a light weight pointer pointing to a recent commit in a branch
 git branch -- if we want to add some new features then we will create a branch then add new features 
 git checkout <branch name> will switch to one branch to another branch
+hello git users
